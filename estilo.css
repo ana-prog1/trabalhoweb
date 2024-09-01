@@ -1,0 +1,43 @@
+
+/* aqui configurei o estilo da minha página */
+body {
+    background-color: rgb(218, 175, 181);
+  }
+
+p {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: rgb(176, 95, 106);
+    
+  }
+
+  th {
+    height: 70px;
+    
+  }
+
+  a {
+    font-size: 25px;
+    color: rgb(246, 228, 228);
+    text-decoration: none;
+    
+  }
+
+  h2 {
+    color: rgb(84, 29, 29);
+
+  }
+
+  div a {
+    font-size: 15px;
+    color: rgb(139, 133, 133);
+    text-decoration: none;
+    
+  }
